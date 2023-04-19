@@ -1,3 +1,3 @@
 # .github
 
-This is the seed of what should become a video based open source social media platform made by creators for creators.
+This is the seed of what should become a video based social media platform made by creators for creators.
